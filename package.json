@@ -1,0 +1,25 @@
+{
+  "name": "my-first-server",
+  "version": "1.0.0",
+  "description": "This project is my first server using just node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ErickVeraC/My-first-server-HTTP.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "ErickVeraC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickVeraC/My-first-server-HTTP/issues"
+  },
+  "homepage": "https://github.com/ErickVeraC/My-first-server-HTTP#readme"
+}
+
